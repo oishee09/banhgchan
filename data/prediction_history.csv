@@ -1,0 +1,10 @@
+Timestamp,Industry,Pitcher Age Group,Company Age (yrs),Revenue (₹L),Gross Margin (%),Net Margin (%),EBITDA (₹L),SKUs,Has Patents,Bootstrapped,Ask Amount (₹L),Offered Equity (%),Predicted Valuation (₹L),Implied Valuation (₹L),Delta (%)
+2026-04-15 04:56:23,Fitness/Sports/Outdoors,Young (18-35),5.0,120.0,50.0,10.0,10.0,14,No,No,40.0,30.6,-0.52,130.72,-100.4
+2026-04-15 04:56:34,Fitness/Sports/Outdoors,Young (18-35),5.0,120.0,50.0,10.0,10.0,14,No,No,40.0,30.6,-0.52,130.72,-100.4
+2026-04-15 04:56:35,Fitness/Sports/Outdoors,Young (18-35),5.0,120.0,50.0,10.0,10.0,14,No,No,40.0,30.6,-0.52,130.72,-100.4
+2026-04-15 05:06:42,Liquor/Alcohol,Middle (36-50),7.0,180.0,45.0,5.0,25.0,13,No,Yes,70.0,10.0,190.49,700.0,-72.79
+2026-04-15 05:06:55,Liquor/Alcohol,Middle (36-50),7.0,180.0,45.0,5.0,25.0,13,No,Yes,70.0,10.0,190.49,700.0,-72.79
+2026-04-15 14:32:36,Liquor/Alcohol,Young (18-35),5.5,200.0,40.0,10.0,10.0,10,No,No,80.0,26.1,1.67,306.51,-99.45
+2026-04-15 14:32:48,Liquor/Alcohol,Young (18-35),5.5,200.0,40.0,10.0,10.0,10,No,No,80.0,26.1,1.67,306.51,-99.45
+2026-04-15 16:17:17,Beauty/Fashion,Young (18-35),3.0,120.0,35.0,-5.0,10.0,5,No,Yes,50.0,10.0,126.18,500.0,-74.76
+2026-04-15 16:17:23,Beauty/Fashion,Young (18-35),3.0,120.0,35.0,-5.0,10.0,5,No,Yes,50.0,10.0,126.18,500.0,-74.76

@@ -1,0 +1,49 @@
+# ─── Python ───────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─── Virtual environments ─────────────────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# ─── Jupyter Notebooks ────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Streamlit ────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ─── IDE / Editor ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── OS ───────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+desktop.ini
+
+# ─── Data (large raw files — keep processed ones) ────────────────────────
+# Uncomment the line below if your raw CSV is very large (>100MB)
+# data/Shark Tank India.csv
+
+# ─── Logs ─────────────────────────────────────────────────────────────────
+*.log
+
+# ─── Environment variables ────────────────────────────────────────────────
+.env
+.env.local
